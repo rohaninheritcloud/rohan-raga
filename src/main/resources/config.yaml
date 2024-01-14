@@ -1,0 +1,9 @@
+http:
+  port: "8083"
+  
+db:
+  password: "aNT9YRFUh$629#t"
+  user: "freedb_ARUN_BENIEL"
+  port: "3306"
+  host: "sql.freedb.tech"
+  database: "freedb_movies_ticket_booking"
